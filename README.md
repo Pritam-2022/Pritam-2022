@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <h3 align="left">Skills:</h3>
 <p align="left"> 
 
-<table align="center" border="">
+<table align="center" border="0">
   <tr>
     <td>
       <h4 align="left">Programming Languages:</h3>
