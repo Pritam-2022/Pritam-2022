@@ -136,11 +136,24 @@ Here are some ideas to get you started:
 --> 
 
 </p>
-
+<!--
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritam-2022&show_icons=true&locale=en&layout=compact" alt="pritam-2022" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pritam-2022&show_icons=true&locale=en" alt="pritam-2022" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pritam-2022&" alt="pritam-2022" /></p>
+
+
+[![Pritam's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Pritam-2022&&theme=xcode)](https://github.com/rishavchanda)
+-->
+
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pritam-2022&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pritam-2022" /></p>
+
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pritam-2022&show_icons=true&locale=en&theme=tokyonight" alt="Pritam-2022" /></p>
+
+<p> align="center"<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pritam-2022&&theme=tokyonight" alt="Pritam-2022" /></p>
+
+
+
 
 ![](https://github.com/Pritam-2022/Pritam-2022/blob/main/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif)
