@@ -1,3 +1,5 @@
+![](https://github.com/Pritam-2022/Pritam-2022/blob/main/PNC-Animated-Banners.gif)
+
 ### Hi there, this is Pritam Jadhav ! 👋
 
 Here are some ideas to get you started:
