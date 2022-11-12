@@ -158,7 +158,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pritam-2022&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pritam-2022" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pritam-2022&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pritam-2022" />
 </p>
 
 
