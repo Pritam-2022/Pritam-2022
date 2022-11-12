@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 <!-- 👯 I’m looking to collaborate on any platform.-->
 <!-- 🤔 I’m looking for help with ReactJS.-->
 - 💬 Ask me about CoreJava, Spring Boot, REST api etc. 
-- 📫 How to reach me: LinkedIn - [@pritam-full-stack](https://www.linkedin.com/in/pritam-full-stack/)
+- 📫 How to reach me: LinkedIn - [@pritam-jadhav](https://www.linkedin.com/in/pritam-full-stack/)
 - 😄 Pronouns: He / His
 <!-- ⚡ Fun fact: ...-->
--->
+
