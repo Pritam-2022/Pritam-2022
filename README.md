@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <table align="center" border="0">
   <tr>
     <td>
-      <h4 align="left">Programming Languages:</h3>
+      <h4 align="left">Languages:</h3>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>&nbsp;
