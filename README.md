@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Full Stack Web Development with Java technology stack and ReactJS.
-- 🌱 I’m currently learning JavaScript and ReactJS library.
-- 💬 Ask me about CoreJava, Spring Boot, REST api etc. 
+- 🔭 I’m currently working on several server side Java Web Applications.
+- 🌱 I’m currently learning Microservices architecture, Docker & Kubernetes.
+- 💬 Ask me about JavaSE, JavaEE, Spring Boot, REST api, MySQL etc. 
 - 📫 How to reach me: LinkedIn - [@pritam-jadhav](https://www.linkedin.com/in/pritam-full-stack/)
 - 😄 Pronounced as: pree · tuhm
 <!--
