@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on several server side Java Web Applications.
 - 🌱 I’m currently learning Microservices architecture, Docker & Kubernetes.
-- 💬 Ask me about JavaSE, JavaEE, Spring Boot, REST api, MySQL etc. 
+- 💬 Ask me about Java, Spring Boot, REST api, MySQL etc. 
 - 📫 How to reach me: LinkedIn - [@pritam-jadhav](https://www.linkedin.com/in/pritam-full-stack/)
 - 😄 Pronounced as: pree · tuhm
 <!--
@@ -176,4 +176,11 @@ Here are some ideas to get you started:
   </a> 
 --> 
 
+# GitHub Activity Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Pritam-2022&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam-2022&layout=compact&theme=radical)
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Pritam-2022&theme=github&hide_border=true)
 
