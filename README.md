@@ -3,8 +3,6 @@
 -->
 ### Hi there, this is Pritam Jadhav ! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on several server side Java Spring Boot Web Applications & Microservices.
 - 🌱 I’m currently learning Microservices architecture, Docker & Kubernetes.
 - 💬 Ask me about Java, Spring Boot, REST api, MySQL, GIT etc. 
