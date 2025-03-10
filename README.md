@@ -176,11 +176,5 @@ Here are some ideas to get you started:
   </a> 
 --> 
 
-# GitHub Activity Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Pritam-2022&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritam-2022&layout=compact&theme=radical)
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Pritam-2022&theme=github&hide_border=true)
 
