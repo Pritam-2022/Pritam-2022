@@ -1,5 +1,6 @@
+<!--
 ![](https://github.com/Pritam-2022/Pritam-2022/blob/main/PNC-Animated-Banners.gif)
-
+-->
 ### Hi there, this is Pritam Jadhav ! 👋
 
 Here are some ideas to get you started:
@@ -141,7 +142,7 @@ Here are some ideas to get you started:
 [![Pritam's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Pritam-2022&&theme=xcode)](https://github.com/Pritam-2022)
 --> 
 
-
+<!--
 <p align="center">
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pritam-2022&show_icons=true&locale=en&theme=tokyonight" alt="Pritam-2022" />
 </p>
@@ -153,7 +154,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pritam-2022&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Pritam-2022" />
 </p>
-
+-->
 
 ![](https://github.com/Pritam-2022/Pritam-2022/blob/main/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif)
 
