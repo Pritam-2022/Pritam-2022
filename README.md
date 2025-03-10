@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on several server side Java Web Applications.
+- 🔭 I’m currently working on several server side Java Spring Boot Web Applications & Microservices.
 - 🌱 I’m currently learning Microservices architecture, Docker & Kubernetes.
-- 💬 Ask me about Java, Spring Boot, REST api, MySQL etc. 
+- 💬 Ask me about Java, Spring Boot, REST api, MySQL, GIT etc. 
 - 📫 How to reach me: LinkedIn - [@pritam-jadhav](https://www.linkedin.com/in/pritam-full-stack/)
 - 😄 Pronounced as: pree · tuhm
 <!--
